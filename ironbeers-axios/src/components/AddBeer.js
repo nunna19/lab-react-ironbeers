@@ -19,6 +19,9 @@ class AddBeer extends Component {
 
 
 
+
+    
+
     console.log(name.value,tagline.value)
 
 
